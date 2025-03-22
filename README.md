@@ -11,9 +11,20 @@ source env.sh
 
 This enables the following quick commands:
 
-> 🧹 **clean** → Cleans the build directory.
-> 🔨 **build** → Compiles the project.
-> 🚀 **run** → Runs the compiled binary.
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/clean-blue" alt="clean"></td>
+    <td>🧹 Cleans the build directory.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/build-green" alt="build"></td>
+    <td>🔨 Compiles the project.</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/run-red" alt="run"></td>
+    <td>🚀 Runs the compiled binary.</td>
+  </tr>
+</table>
 
 
 🛠 Manual Compilation (Optional)
