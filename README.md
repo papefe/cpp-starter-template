@@ -11,9 +11,9 @@ source env.sh
 
 This enables the following quick commands:
 
-clean → Cleans the build directory.
-build → Compiles the project.
-run → Runs the compiled binary.
+> 🧹 **clean** → Cleans the build directory.
+> 🔨 **build** → Compiles the project.
+> 🚀 **run** → Runs the compiled binary.
 
 
 🛠 Manual Compilation (Optional)
